@@ -3,6 +3,7 @@
 plugins {
     id 'java-library'
     id 'de.undercouch.download'
+    id 'org.jetbrains.kotlin.jvm'
 }
 
 java {
